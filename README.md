@@ -44,7 +44,7 @@ Key findings:
 Soham Kandalgaonkar
 [Tableau Public profile](https://public.tableau.com/app/profile/soham.kandalgaonkar)
 [GitHub profile](https://github.com/sohamkan17)
-[LinkedIn profile](www.linkedin.com/in/soham-kandalgaonkar-34296a2a4)
+[LinkedIn profile](https://www.linkedin.com/in/soham-kandalgaonkar-34296a2a4)
 
 
 ## 🚀 Usage
