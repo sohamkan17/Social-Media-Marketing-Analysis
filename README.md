@@ -72,8 +72,8 @@ Clone the repository and install the dependencies (Python 3.9+):
 
 ```bash
 git clone https://github.com/sohamkan17/Social-Media-Marketing-Analysis.git
-   cd Social-Media-Marketing-Analysis
-   pip install pandas seaborn matplotlib
+cd Social-Media-Marketing-Analysis
+pip install -r requirements.txt
 ```
 The raw CSVs live in `/data` and are never edited by hand — running `python/getdata.py` regenerates `marketing.db` from them.
 
