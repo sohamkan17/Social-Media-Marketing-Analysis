@@ -27,7 +27,7 @@ print(df)
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# bar chart of conversion rate by platform (reuse of DayFour seaborn skills)
+# bar chart of conversion rate by platform 
 sns.barplot(x="ad_platform", y="conversion_pct", data=df)
 plt.title("Purchase Conversion Rate by Platform")
 plt.ylabel("Conversion %")
