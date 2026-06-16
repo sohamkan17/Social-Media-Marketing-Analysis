@@ -1,0 +1,5 @@
+marketing.db
+*.sqlite
+*.sqbpro
+__pycache__/
+*.pyc
