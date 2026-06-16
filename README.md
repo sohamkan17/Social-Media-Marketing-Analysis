@@ -39,7 +39,7 @@ Key findings:
 - The funnel is steep (339,812 impressions → 2,031 purchases), so findings are framed around cost-per-purchase rather than dollar ROI, since the data records purchase events, not amounts.
 
 
-### ✍️ Author
+### Author
 
 Soham Kandalgaonkar
 [Tableau Public profile](https://public.tableau.com/app/profile/soham.kandalgaonkar)
@@ -47,7 +47,7 @@ Soham Kandalgaonkar
 [LinkedIn profile](https://www.linkedin.com/in/soham-kandalgaonkar-34296a2a4)
 
 
-## 🚀 Usage
+## Usage
 
 Build the database and run the analysis in two steps:
 
@@ -66,7 +66,7 @@ Each business question also lives as a standalone file in `/sql`, runnable again
 | `customer_segmentation.sql` | RFM-style buyer segmentation with `ntile()` |
 
 
-## ⬇️ Installation
+## Installation
 
 Clone the repository and install the dependencies (Python 3.9+):
 
@@ -77,7 +77,13 @@ pip install -r requirements.txt
 ```
 The raw CSVs live in `/data` and are never edited by hand — running `python/getdata.py` regenerates `marketing.db` from them.
 
+## Limitations & Next Steps
 
-## 💭 Feedback and Contributing
+- This is synthetic data, therefore this is more to practice the analytical process rather than reflecting an analysis on real consumer behavior
+- 'ad_events' can give cost-per-acquisition but it doesn't necessarily resemble ROI which would be useful information in a full marketing analysis
+- In the future, I'd like to use my Tableau dashboard to reflect live data rather than a set marketing dashboard
+
+
+## Feedback and Contributing
 
 This is a learning project, so if you spot something or have a suggestion, feel free to open an issue or start a discussion in the repo.
