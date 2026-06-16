@@ -59,8 +59,6 @@ print(f"Most expensive: {worst['name']} at ${worst['cost_per_purchase']} per pur
 ratio = worst['cost_per_purchase'] / best['cost_per_purchase']
 print(f"That's a {ratio:.1f}x difference.")
 
-cac.to_csv(ROOT / "dashboard" / "cost_per_purchase.csv", index=False)
-
 # Tableau
 df.to_csv(ROOT / "dashboard" / "platform_summary.csv", index=False)
 
