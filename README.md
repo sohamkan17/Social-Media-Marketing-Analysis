@@ -11,7 +11,7 @@
 - Headline finding: cost-per-acquisition varies 55× across campaigns — a clear signal for where to reallocate ad spend.
 - Results published as an interactive [Tableau dashboard](https://public.tableau.com/app/profile/soham.kandalgaonkar/viz/MarketingCampaignPerformance-SocialMediaAdvertisingKaggle/MarketingCampaignPerformance?publish=yes).
 
-[![Marketing Campaign Performance dashboard](Tableau%20Screenshot%20Social%20Media.webp)](https://public.tableau.com/app/profile/soham.kandalgaonkar/viz/MarketingCampaignPerformance-SocialMediaAdvertisingKaggle/MarketingCampaignPerformance?publish=yes)
+[![Marketing Campaign Performance dashboard](Dashboard-Tableau-Social-Media-Analysis.webp)](https://public.tableau.com/app/profile/soham.kandalgaonkar/viz/MarketingCampaignPerformance-SocialMediaAdvertisingKaggle/MarketingCampaignPerformance?publish=yes)
 
 *Interactive Tableau dashboard — click to explore campaign-level cost-per-acquisition.*
 
