@@ -37,14 +37,19 @@ Key findings:
 - Cost per acquisition varies by 55×. The cheapest campaign acquired a purchase for \$118.18 (*Campaign_42_Summer*); the most expensive cost \$6,511.53 (*Campaign_35_Launch*).
 - Facebook narrowly out-converts Instagram — 0.613% vs 0.572% of impressions — and drove 1,323 of the 2,031 total purchases.
 - The funnel is steep (339,812 impressions → 2,031 purchases), so findings are framed around cost-per-purchase rather than dollar ROI, since the data records purchase events, not amounts.
+- Reallocate spend toward low-CAC campaigns. Cost-per-acquisition ranges 55× — from \$118 (*Campaign_42_Summer*) to \$6,512 (*Campaign_35_Launch*). Move budget off the high-CAC outliers and toward *Campaign_42*-tier campaigns, then audit what makes the cheap ones efficient (targeting, ad type, platform) and replicate it.
+- Lean on Facebook for volume. Facebook drove 1,323 of 2,031 purchases (~65%) and converted slightly better than Instagram (0.613% vs 0.572%), making it the stronger default for broad-reach spend.
+  Investigate Campaign_35_Launch before renewing it. At \$6,512 per purchase it's the single biggest source of wasted spend — review its creative and targeting instead of re-funding it as-is.
+
+Since this data records purchase *events* but not purchase *amounts*, these are cost-per-acquisition calls, not full ROI. The natural next step is to join revenue/LTV data and weigh acquisition cost against customer value.
 
 
 ### Author
 
 Soham Kandalgaonkar
-[Tableau Public profile](https://public.tableau.com/app/profile/soham.kandalgaonkar)
-[GitHub profile](https://github.com/sohamkan17)
-[LinkedIn profile](https://www.linkedin.com/in/soham-kandalgaonkar-34296a2a4)
+- [Tableau Public profile](https://public.tableau.com/app/profile/soham.kandalgaonkar)
+- [GitHub profile](https://github.com/sohamkan17)
+- [LinkedIn profile](https://www.linkedin.com/in/soham-kandalgaonkar-34296a2a4)
 
 
 ## Usage
